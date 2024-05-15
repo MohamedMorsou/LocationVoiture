@@ -37,7 +37,7 @@ const Footer = () => {
     <footer className="footer">
       <Container>
         <Row>
-          <Col lg="4" md="4" sm="5" xs='12'>
+          <Col lg="4" md="4" sm="5" xs="12">
             <div className="logo footer__logo">
               <h1>
                 <Link to="/home" className=" d-flex align-items-center gap-2">
@@ -49,7 +49,7 @@ const Footer = () => {
               </h1>
             </div>
             <p className="footer__logo-content">
-              Lorem simo dolor sit amet consectetur adipisicing elit.
+              Lorem simo morsou sit amet consectetur adipisicing elit.
               Consequuntur, distinctio, itaque reiciendis ab cupiditate harum ex
               quam veniam, omnis expedita animi quibusdam obcaecati mollitia?
               Delectus et ad illo recusandae temporibus?
